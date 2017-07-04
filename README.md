@@ -1,2 +1,5 @@
-# Tarea3-ANN
-Tarea 3 de Redes Neuronales Artificiales 
+# Redes Neuronales Artificiales: Tarea 3
+
+Integrantes:
+- Rodrigo Sepúlveda
+- Sebastián Vergara
